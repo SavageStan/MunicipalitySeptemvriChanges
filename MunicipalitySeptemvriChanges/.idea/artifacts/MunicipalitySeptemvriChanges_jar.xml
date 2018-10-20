@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MunicipalitySeptemvriChanges:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MunicipalitySeptemvriChanges_jar</output-path>
+    <root id="archive" name="MunicipalitySeptemvriChanges.jar">
+      <element id="module-output" name="MunicipalitySeptemvriChanges" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/sqlite-jdbc-3.23.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/JavaFXMessageBox.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

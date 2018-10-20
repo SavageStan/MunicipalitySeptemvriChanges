@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MunicipalitySeptemvriChanges:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6c23411-e52a-4156-b360-62c766e32862" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1772824385">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.72" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="LOCK" value="64" />
+          <entry key="dummy" value="43" />
+          <entry key="java" value="13822" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="13822" />
+          <entry key="PLAIN_TEXT" value="107" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="LOCK" value="1" />
+          <entry key="class" value="4" />
+          <entry key="java" value="52" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="4" />
+          <entry key="JAVA" value="52" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/MainSceneBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="49" column="62" lean-forward="true" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#buildScene#0;class#MainSceneBuilder#0" />
+                <element signature="method#buildCenter#0;class#MainSceneBuilder#0" />
+                <element signature="method#buildCRUDButtons#0;class#MainSceneBuilder#0" />
+                <element signature="method#showDetailsButtonClicked#0;class#MainSceneBuilder#0" />
+                <element signature="method#addButtonClicked#0;class#MainSceneBuilder#0" />
+                <element signature="method#populatedPlaceChanged#0;class#MainSceneBuilder#0" />
+                <element signature="method#setCurrentPopulatedPlace#0;class#MainSceneBuilder#0" />
+                <element signature="docComment;method#refreshTableView#0;class#MainSceneBuilder#0" />
+                <element signature="method#refreshTableView#0;class#MainSceneBuilder#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/AddRecordStageBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="99" column="53" lean-forward="true" selection-start-line="99" selection-start-column="53" selection-end-line="99" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/SQLHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="130" column="50" lean-forward="true" selection-start-line="130" selection-start-column="50" selection-end-line="130" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#selectAllFromPlanChanges#0;class#SQLHandler#0" />
+                <element signature="method#selectAllFromPopulatedPlaces#0;class#SQLHandler#0" />
+                <element signature="method#selectAllFromRecordTypes#0;class#SQLHandler#0" />
+                <element signature="method#convertStringToJavaSQLDate#0;class#SQLHandler#0" />
+                <element signature="method#constructURL#0;class#SQLHandler#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LOCK" />
+        <option value="$PROJECT_DIR$/src/com/stanstoynov/PopulatedPlace.java" />
+        <option value="$PROJECT_DIR$/src/com/stanstoynov/RecordTypeEnum.java" />
+        <option value="$PROJECT_DIR$/src/com/stanstoynov/SceneBuilder.java" />
+        <option value="$PROJECT_DIR$/src/com/stanstoynov/TableRecord.java" />
+        <option value="$PROJECT_DIR$/src/com/stanstoynov/Helper.java" />
+        <option value="$PROJECT_DIR$/src/com/stanstoynov/DatabaseConnector.java" />
+        <option value="$PROJECT_DIR$/src/com/stanstoynov/FileLockChecker.java" />
+        <option value="$PROJECT_DIR$/src/com/stanstoynov/TableRecordPlanChanges.java" />
+        <option value="$PROJECT_DIR$/src/com/stanstoynov/TableRecordPopulatedPlaces.java" />
+        <option value="$PROJECT_DIR$/src/com/stanstoynov/MenuBarBuilder.java" />
+        <option value="$PROJECT_DIR$/src/com/stanstoynov/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/stanstoynov/RecordDetailsStageBuilder.java" />
+        <option value="$PROJECT_DIR$/src/com/stanstoynov/TableRecordRecordTypes.java" />
+        <option value="$PROJECT_DIR$/src/com/stanstoynov/MainSceneBuilder.java" />
+        <option value="$PROJECT_DIR$/src/com/stanstoynov/AddRecordStageBuilder.java" />
+        <option value="$PROJECT_DIR$/src/com/stanstoynov/SQLHandler.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1934" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MunicipalitySeptemvriChanges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MunicipalitySeptemvriChanges" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MunicipalitySeptemvriChanges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MunicipalitySeptemvriChanges" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MunicipalitySeptemvriChanges" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MunicipalitySeptemvriChanges" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="stanstoynov" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540028833287" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Studies/Dummies/Part I/1.4 JavaFX Dialog Boxes/1.4.2.1 JavaFXConfirmationBox JAR" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\000 Google Drive\InteliJ Idea Workspace\JavaFX\Other\MunicipalitySeptemvriChanges\lib" />
+      <recent name="E:\000 Google Drive\InteliJ Idea Workspace\JavaFX\Other\MunicipalitySeptemvriChanges\resources\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\000 Google Drive\InteliJ Idea Workspace\JavaFX\Other\MunicipalitySeptemvriChanges\lib" />
+      <recent name="E:\000 Google Drive\InteliJ Idea Workspace\JavaFX\Other\MunicipalitySeptemvriChanges\src" />
+      <recent name="E:\000 Google Drive\InteliJ Idea Workspace\JavaFX\Other\MunicipalitySeptemvriChanges\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stanstoynov.Main" />
+      <module name="MunicipalitySeptemvriChanges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stanstoynov.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6c23411-e52a-4156-b360-62c766e32862" name="Default Changelist" comment="" />
+      <created>1539436510274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539436510274</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="840" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Learn" order="3" weight="0.3295302" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.501462" side_tool="true" weight="0.25302014" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49853802" visible="true" weight="0.2033557" />
+      <window_info id="Structure" order="7" sideWeight="0.501462" side_tool="true" weight="0.25302014" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32894737" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32894737" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32894737" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.3991228" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.32894737" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Run" order="8" weight="0.69731545" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/resources/LOCK" />
+    <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/PopulatedPlace.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/RecordTypeEnum.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/EditRecordSceneBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/DeleteRecordSceneBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/Helper.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/FileLockChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/JavaFXConfirmationBox.jar!/stan/ConfirmationBox.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/MenuBarBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/JavaFXMessageBox.jar!/stan/MessageBox.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="34" column="11" lean-forward="true" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="718">
+          <caret line="41" column="107" selection-start-line="41" selection-start-column="107" selection-end-line="41" selection-end-column="107" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/RecordDetailsStageBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/TableRecordPlanChanges.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <element signature="method#TableRecordPlanChanges#0;class#TableRecordPlanChanges#0" />
+            <element signature="method#TableRecordPlanChanges#1;class#TableRecordPlanChanges#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/TableRecordPopulatedPlaces.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding>
+            <element signature="method#TableRecordPopulatedPlaces#0;class#TableRecordPopulatedPlaces#0" />
+            <element signature="method#TableRecordPopulatedPlaces#1;class#TableRecordPopulatedPlaces#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/TableRecordRecordTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+          <folding>
+            <element signature="method#TableRecordRecordTypes#0;class#TableRecordRecordTypes#0" />
+            <element signature="method#TableRecordRecordTypes#0;class#TableRecordRecordTypes#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/MainSceneBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="49" column="62" lean-forward="true" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#buildScene#0;class#MainSceneBuilder#0" />
+            <element signature="method#buildCenter#0;class#MainSceneBuilder#0" />
+            <element signature="method#buildCRUDButtons#0;class#MainSceneBuilder#0" />
+            <element signature="method#showDetailsButtonClicked#0;class#MainSceneBuilder#0" />
+            <element signature="method#addButtonClicked#0;class#MainSceneBuilder#0" />
+            <element signature="method#populatedPlaceChanged#0;class#MainSceneBuilder#0" />
+            <element signature="method#setCurrentPopulatedPlace#0;class#MainSceneBuilder#0" />
+            <element signature="docComment;method#refreshTableView#0;class#MainSceneBuilder#0" />
+            <element signature="method#refreshTableView#0;class#MainSceneBuilder#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/DatabaseConnector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/AddRecordStageBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="99" column="53" lean-forward="true" selection-start-line="99" selection-start-column="53" selection-end-line="99" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/SQLHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="130" column="50" lean-forward="true" selection-start-line="130" selection-start-column="50" selection-end-line="130" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#selectAllFromPlanChanges#0;class#SQLHandler#0" />
+            <element signature="method#selectAllFromPopulatedPlaces#0;class#SQLHandler#0" />
+            <element signature="method#selectAllFromRecordTypes#0;class#SQLHandler#0" />
+            <element signature="method#convertStringToJavaSQLDate#0;class#SQLHandler#0" />
+            <element signature="method#constructURL#0;class#SQLHandler#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>MunicipalitySeptemvriChanges:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MunicipalitySeptemvriChanges</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
