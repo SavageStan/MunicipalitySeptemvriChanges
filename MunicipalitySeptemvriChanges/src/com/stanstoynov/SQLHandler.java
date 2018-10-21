@@ -28,7 +28,7 @@ public class SQLHandler {
         // Prepare the SQL.
         String whereClause = "";
 
-        if(!(currentPopulatedPlace.getId() == 0)) {
+        if(!(currentPopulatedPlace.getId() == 16)) { // id 16, name Всички
             whereClause = " WHERE planChanges.populatedPlaceId = " + currentPopulatedPlace.getId();
         }
 

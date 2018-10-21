@@ -18,31 +18,33 @@
     <session id="1772824385">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="2" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.72" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="LOCK" value="64" />
           <entry key="dummy" value="43" />
-          <entry key="java" value="13822" />
+          <entry key="java" value="14071" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="13822" />
+          <entry key="JAVA" value="14071" />
           <entry key="PLAIN_TEXT" value="107" />
         </counts>
       </usages-collector>
@@ -67,48 +69,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/MainSceneBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="49" column="62" lean-forward="true" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="62" />
+            <state relative-caret-position="284">
+              <caret line="219" column="89" selection-start-line="219" selection-start-column="68" selection-end-line="219" selection-end-column="89" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#buildScene#0;class#MainSceneBuilder#0" />
+                <element signature="method#buildTop#0;class#MainSceneBuilder#0" />
                 <element signature="method#buildCenter#0;class#MainSceneBuilder#0" />
                 <element signature="method#buildCRUDButtons#0;class#MainSceneBuilder#0" />
                 <element signature="method#showDetailsButtonClicked#0;class#MainSceneBuilder#0" />
                 <element signature="method#addButtonClicked#0;class#MainSceneBuilder#0" />
-                <element signature="method#populatedPlaceChanged#0;class#MainSceneBuilder#0" />
                 <element signature="method#setCurrentPopulatedPlace#0;class#MainSceneBuilder#0" />
                 <element signature="docComment;method#refreshTableView#0;class#MainSceneBuilder#0" />
-                <element signature="method#refreshTableView#0;class#MainSceneBuilder#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/AddRecordStageBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="99" column="53" lean-forward="true" selection-start-line="99" selection-start-column="53" selection-end-line="99" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/SQLHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/AddRecordStageBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="130" column="50" lean-forward="true" selection-start-line="130" selection-start-column="50" selection-end-line="130" selection-end-column="50" />
+            <state relative-caret-position="336">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#selectAllFromPlanChanges#0;class#SQLHandler#0" />
-                <element signature="method#selectAllFromPopulatedPlaces#0;class#SQLHandler#0" />
-                <element signature="method#selectAllFromRecordTypes#0;class#SQLHandler#0" />
-                <element signature="method#convertStringToJavaSQLDate#0;class#SQLHandler#0" />
-                <element signature="method#constructURL#0;class#SQLHandler#0" />
               </folding>
             </state>
           </provider>
@@ -142,15 +126,15 @@
         <option value="$PROJECT_DIR$/src/com/stanstoynov/RecordDetailsStageBuilder.java" />
         <option value="$PROJECT_DIR$/src/com/stanstoynov/TableRecordRecordTypes.java" />
         <option value="$PROJECT_DIR$/src/com/stanstoynov/MainSceneBuilder.java" />
-        <option value="$PROJECT_DIR$/src/com/stanstoynov/AddRecordStageBuilder.java" />
         <option value="$PROJECT_DIR$/src/com/stanstoynov/SQLHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/stanstoynov/AddRecordStageBuilder.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
-    <option name="width" value="1934" />
+    <option name="width" value="1935" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
@@ -160,6 +144,7 @@
     <panes>
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,7 +167,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -268,7 +252,7 @@
       <window_info id="Learn" order="3" weight="0.3295302" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.501462" side_tool="true" weight="0.25302014" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49853802" visible="true" weight="0.2033557" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49853802" visible="true" weight="0.20872483" />
       <window_info id="Structure" order="7" sideWeight="0.501462" side_tool="true" weight="0.25302014" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32894737" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32894737" />
@@ -355,9 +339,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -394,56 +375,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/MainSceneBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="49" column="62" lean-forward="true" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#buildScene#0;class#MainSceneBuilder#0" />
-            <element signature="method#buildCenter#0;class#MainSceneBuilder#0" />
-            <element signature="method#buildCRUDButtons#0;class#MainSceneBuilder#0" />
-            <element signature="method#showDetailsButtonClicked#0;class#MainSceneBuilder#0" />
-            <element signature="method#addButtonClicked#0;class#MainSceneBuilder#0" />
-            <element signature="method#populatedPlaceChanged#0;class#MainSceneBuilder#0" />
-            <element signature="method#setCurrentPopulatedPlace#0;class#MainSceneBuilder#0" />
-            <element signature="docComment;method#refreshTableView#0;class#MainSceneBuilder#0" />
-            <element signature="method#refreshTableView#0;class#MainSceneBuilder#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/DatabaseConnector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/AddRecordStageBuilder.java">
+    <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/MainSceneBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="99" column="53" lean-forward="true" selection-start-line="99" selection-start-column="53" selection-end-line="99" selection-end-column="53" />
+        <state relative-caret-position="284">
+          <caret line="219" column="89" selection-start-line="219" selection-start-column="68" selection-end-line="219" selection-end-column="89" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#buildScene#0;class#MainSceneBuilder#0" />
+            <element signature="method#buildTop#0;class#MainSceneBuilder#0" />
+            <element signature="method#buildCenter#0;class#MainSceneBuilder#0" />
+            <element signature="method#buildCRUDButtons#0;class#MainSceneBuilder#0" />
+            <element signature="method#showDetailsButtonClicked#0;class#MainSceneBuilder#0" />
+            <element signature="method#addButtonClicked#0;class#MainSceneBuilder#0" />
+            <element signature="method#setCurrentPopulatedPlace#0;class#MainSceneBuilder#0" />
+            <element signature="docComment;method#refreshTableView#0;class#MainSceneBuilder#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/SQLHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="130" column="50" lean-forward="true" selection-start-line="130" selection-start-column="50" selection-end-line="130" selection-end-column="50" />
+        <state relative-caret-position="334">
+          <caret line="30" column="74" lean-forward="true" selection-start-line="30" selection-start-column="74" selection-end-line="30" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#selectAllFromPlanChanges#0;class#SQLHandler#0" />
             <element signature="method#selectAllFromPopulatedPlaces#0;class#SQLHandler#0" />
             <element signature="method#selectAllFromRecordTypes#0;class#SQLHandler#0" />
             <element signature="method#convertStringToJavaSQLDate#0;class#SQLHandler#0" />
             <element signature="method#constructURL#0;class#SQLHandler#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stanstoynov/AddRecordStageBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

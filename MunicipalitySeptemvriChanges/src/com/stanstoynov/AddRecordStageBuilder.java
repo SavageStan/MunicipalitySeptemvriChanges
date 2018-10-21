@@ -21,7 +21,7 @@ public class AddRecordStageBuilder {
     private static TextArea orderDecisionTextArea;
     private static TextArea descriptionTextArea;
 
-    public static void showAddRecordStage(int selectedPopulatedPlaceIndex) {
+    public static void showAddRecordStage(int choiceBoxSelectedItemIndex) {
         stage = new Stage();
         stage.setResizable(false);
         stage.setTitle("Добавяне на нов запис");
@@ -38,9 +38,11 @@ public class AddRecordStageBuilder {
         // Populated place
         Label populatedPlaceLabel = new Label("Населено място");
         populatedPlaceChoiceBox = new ChoiceBox(SQLHandler.selectAllFromPopulatedPlaces());
-        populatedPlaceChoiceBox.getItems().remove(15); // Remove "Всички"
-        if(selectedPopulatedPlaceIndex != 15) {
-            populatedPlaceChoiceBox.getSelectionModel().select(selectedPopulatedPlaceIndex);
+        // Remove "Всички", it is index 15 because the indexing in Java starts from 0,
+        // while indexing in SQL starts from 1.
+        populatedPlaceChoiceBox.getItems().remove(15);
+        if(choiceBoxSelectedItemIndex != 15) {
+            populatedPlaceChoiceBox.getSelectionModel().select(choiceBoxSelectedItemIndex);
         }
         else {
             populatedPlaceChoiceBox.getSelectionModel().select(0);
